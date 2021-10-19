@@ -4,5 +4,4 @@ scipy
 scikit-learn
 matplotlib
 pandas
-streamlit 
-pickle
+streamlit
