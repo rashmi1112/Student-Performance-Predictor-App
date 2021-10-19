@@ -188,7 +188,7 @@ def main():
 #         st.title()
         html_temp = """
         <div style="background-color:tomato;padding:10px">
-        <h2 style="color:white;text-align:center;"> Student Perfromance Predictor App </h2>
+        <h2 style="color:white;text-align:center;"> Student Performance Predictor App </h2>
         </div>
         """
         st.markdown(html_temp,unsafe_allow_html=True)
